@@ -1,0 +1,16 @@
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\bin\Debug\net5.0\MCV_POO.exe
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\bin\Debug\net5.0\MCV_POO.deps.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\bin\Debug\net5.0\MCV_POO.runtimeconfig.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\bin\Debug\net5.0\MCV_POO.runtimeconfig.dev.json
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\bin\Debug\net5.0\MCV_POO.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\bin\Debug\net5.0\ref\MCV_POO.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\bin\Debug\net5.0\MCV_POO.pdb
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\obj\Debug\net5.0\MCV_POO.csprojAssemblyReference.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\obj\Debug\net5.0\MCV_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\obj\Debug\net5.0\MCV_POO.AssemblyInfoInputs.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\obj\Debug\net5.0\MCV_POO.AssemblyInfo.cs
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\obj\Debug\net5.0\MCV_POO.csproj.CoreCompileInputs.cache
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\obj\Debug\net5.0\MCV_POO.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\obj\Debug\net5.0\ref\MCV_POO.dll
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\obj\Debug\net5.0\MCV_POO.pdb
+C:\Users\CASSIA\OneDrive\SENAI\C#\Orientada a Objetos\MCV_POO\obj\Debug\net5.0\MCV_POO.genruntimeconfig.cache
