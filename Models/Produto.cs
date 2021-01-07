@@ -58,7 +58,25 @@ namespace MCV_POO.Models
 
             return produtos;
         }  
+
         
+
         
+        public void Inserir(Produto produto)
+        {   
+
+            //Criamos um array de linhas para inserir no arquivo de texto (CSV)
+            string[] linhas = { PrepararLinhasCSV(produto)};
+           
+           //Metodos responsavel por inserir linhas em um arquivo
+            File.AppendAllLines(PATH, linhas);
+
+        }
+        
+        public string PrepararLinhasCSV(Produto prod)
+        {
+            return $"{prod.Codigo};{prod.Nome};{prod.Preco}";
+        }
+
     }
 }

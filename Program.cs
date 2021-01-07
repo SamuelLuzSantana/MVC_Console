@@ -9,7 +9,8 @@ namespace MCV_POO
         static void Main(string[] args)
         {
            ProdutoController prod = new ProdutoController();
-        
+
+            prod.Cadastrar();
             prod.ListarProdutos();
         }
     }

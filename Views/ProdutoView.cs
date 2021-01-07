@@ -16,6 +16,23 @@ namespace MCV_POO.Views{
                     
                 }
             }
+
+            public Produto CadastrarProduto()
+            {
+
+                Produto produto = new Produto();
+
+                Console.WriteLine($"Digite um codigo: ");
+                produto.Codigo = int.Parse(Console.ReadLine());
+
+                Console.WriteLine($"Digite o nome do Produto: ");
+                produto.Nome = Console.ReadLine();
+                
+                Console.WriteLine($"Digite o Valor do Produto R$: ");
+                produto.Preco = float.Parse(Console.ReadLine());
+                
+                return produto;
+            }
         }
 
 }
